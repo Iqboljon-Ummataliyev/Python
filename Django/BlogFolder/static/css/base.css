@@ -1,0 +1,16 @@
+body {
+    width: 100vw;
+    height: 100vh;
+}
+
+header h1 a {
+    color: green;
+    text-decoration:dotted;
+}
+
+html {
+    background-color: black;
+}
+html {
+    color: white;
+}
